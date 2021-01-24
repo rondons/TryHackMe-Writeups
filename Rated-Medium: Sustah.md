@@ -172,7 +172,7 @@ A creak of a nearby door had his heart nearly jump in his chest and his fingers 
 
 ### Under the backups folder a hidden backup file can be found. It contains the password to another user: kiran.
 ![system3](https://user-images.githubusercontent.com/73745039/105642701-2803da80-5e83-11eb-863d-69195de4f6f6.PNG)
-![system4](https://user-images.githubusercontent.com/73745039/105642706-2f2ae880-5e83-11eb-916d-924f4ea26fb5.PNG)
+![sys](https://user-images.githubusercontent.com/73745039/105643711-5c7a9500-5e89-11eb-8e19-7358bb25fef9.PNG)
 
 Now he was kiran on the system. A simply "su kiran" followed by his password and he had all the permissions that this man had. He figured he must be one of the clients of these criminals, and indeed:
 ### Going into kiran's home directory (/home/kiran) as kiran would allow you to get the user flag.
