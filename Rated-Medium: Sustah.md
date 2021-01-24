@@ -1,6 +1,6 @@
 # Sustah
 ## Rated - Medium
-###### Disclaimer: These is both a write-up and a short-story. Feel free to skip the story to the highlighted write-up bits if you're uninterested in it.
+###### Disclaimer: This is both a write-up and a short-story. Feel free to skip the story to the highlighted write-up bits if you're uninterested in it.
 
 #
 
